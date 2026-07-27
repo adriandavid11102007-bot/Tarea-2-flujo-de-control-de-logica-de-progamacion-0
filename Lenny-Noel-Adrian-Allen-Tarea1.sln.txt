@@ -28,4 +28,5 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {46EC0D8F-8E36-4EE7-BBB7-31314B448C40}
 	EndGlobalSection
-EndGlobal
+EndGlobal.cpp
+
